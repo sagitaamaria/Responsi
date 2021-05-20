@@ -1,6 +1,5 @@
 # Responsi
 Praktikum Pemweb I
 
-Login
-#user: admin
-#pass: 123
+user: admin
+pass: 123
