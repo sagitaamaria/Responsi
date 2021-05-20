@@ -1,3 +1,0 @@
-Login:
-user: admin
-pass: 123
